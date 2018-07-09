@@ -25,5 +25,5 @@ if __name__ == "__main__":
 
 ![result](https://github.com/marbirk/spark-basics/blob/master/result.png?raw=true)
 
-=> The #24 most used word in the shakespeare text is "u'he". It has a word count of 4546.
+=> The #24 most used word in the shakespeare text is "he". It has a word count of 4546.
 
